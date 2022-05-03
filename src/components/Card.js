@@ -10,6 +10,7 @@ const Card = () => {
         <img src={avatar_url} alt={name}></img>
         <div>
           <h4>{name}</h4>
+            {  twitter_username!=null && <h5>@{twitter_username}</h5>}
          
         </div>
         <a href={html_url}>follow</a>
