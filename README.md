@@ -21,6 +21,4 @@ For unauthenticated requests, the rate limit allows for up to 60 requests per ho
 - [React SDK Docs](https://auth0.com/docs/libraries/auth0-react)
 - [REACT SDK API Docs](https://auth0.github.io/auth0-react/)
 
-## Deployment
 
-[Netlify](https://www.netlify.com/)
